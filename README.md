@@ -35,3 +35,5 @@ Remember that test failures are normal for unsolved labs! This is how we will be
 
 
 <p data-visibility='hidden'>KWK-L1 Variable Assignment</p>
+greeting = "Hello World"
+puts greeting
