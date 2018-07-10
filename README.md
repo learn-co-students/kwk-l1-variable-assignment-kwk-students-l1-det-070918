@@ -1,5 +1,6 @@
 # Variable Assignment
 
+
 ## Objectives
 
 1. Assign a local variable.
